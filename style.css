@@ -193,7 +193,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('/public/canva.jpeg'); /* Random image URL */
+    background-image: url('public/canva.jpeg'); /* Random image URL */
     background-size: cover;
     background-position: center;
     border-radius: 10px;
